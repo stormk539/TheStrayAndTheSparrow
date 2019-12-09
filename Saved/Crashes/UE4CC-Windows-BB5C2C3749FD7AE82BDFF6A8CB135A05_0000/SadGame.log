@@ -1,0 +1,1045 @@
+﻿Log file open, 12/09/19 16:25:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SadGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099651
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Engine.ini]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.12.09-21.25.27:468][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Engine.ini]
+[2019.12.09-21.25.27:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Engine.ini]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Engine.ini]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.09-21.25.27:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Engine.ini]
+[2019.12.09-21.25.27:469][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Engine.ini]
+[2019.12.09-21.25.27:471][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-21.25.27:471][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-21.25.27:472][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-21.25.27:472][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-21.25.27:472][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.09-21.25.27:475][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.09-21.25.27:475][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.09-21.25.27:475][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-21.25.27:475][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.09-21.25.27:476][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Config/Windows/Engine.ini]
+[2019.12.09-21.25.27:476][  0]LogInit: Computer: NQSCGL-MSI-04
+[2019.12.09-21.25.27:476][  0]LogInit: User: skaffenb
+[2019.12.09-21.25.27:476][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.09-21.25.27:476][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.09-21.25.27:476][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.09-21.25.27:476][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.09-21.25.27:476][  0]LogMemory: Process Physical Memory: 101.04 MB used, 101.05 MB peak
+[2019.12.09-21.25.27:476][  0]LogMemory: Process Virtual Memory: 100.53 MB used, 100.53 MB peak
+[2019.12.09-21.25.27:476][  0]LogMemory: Physical Memory: 7687.35 MB used,  25025.18 MB free, 32712.53 MB total
+[2019.12.09-21.25.27:476][  0]LogMemory: Virtual Memory: 4668.52 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.09-21.25.27:478][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.09-21.25.27:497][  0]LogInit: Using OS detected language (en-US).
+[2019.12.09-21.25.27:497][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.09-21.25.27:498][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.09-21.25.27:648][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.09-21.25.27:672][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.09-21.25.27:672][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.09-21.25.27:856][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-21.25.27:856][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.09-21.25.27:918][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.09-21.25.27:918][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.09-21.25.27:920][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.09-21.25.27:920][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.09-21.25.27:920][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.09-21.25.27:927][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.09-21.25.27:927][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.09-21.25.27:927][  0]LogWindows: EnumDisplayDevices:
+[2019.12.09-21.25.27:928][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.09-21.25.27:928][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.09-21.25.27:928][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.09-21.25.27:928][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.09-21.25.27:929][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.09-21.25.27:929][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.09-21.25.27:929][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.12.09-21.25.27:929][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.12.09-21.25.27:929][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.09-21.25.27:965][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.09-21.25.27:976][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.09-21.25.28:390][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.09-21.25.28:399][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.09-21.25.28:408][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.09-21.25.28:416][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.09-21.25.28:425][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.09-21.25.28:434][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.09-21.25.28:442][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.09-21.25.28:451][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.09-21.25.28:455][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.09-21.25.28:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.09-21.25.28:487][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.09-21.25.28:505][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.09-21.25.28:505][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.09-21.25.28:519][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.09-21.25.28:519][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.09-21.25.28:526][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.09-21.25.28:533][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.09-21.25.28:540][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.09-21.25.28:548][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.09-21.25.28:572][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.09-21.25.28:572][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.09-21.25.28:572][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.09-21.25.28:581][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.09-21.25.28:640][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Intermediate/Shaders/WorkingDirectory/12164/).
+[2019.12.09-21.25.28:641][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/skaffenb/AppData/Local/Temp/UnrealShaderWorkingDir/FF03C2C44261A1C797C6B3896236163A/'.
+[2019.12.09-21.25.28:643][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.09-21.25.28:643][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.09-21.25.28:643][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.09-21.25.29:237][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.09-21.25.29:280][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/skaffenb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-21.25.29:280][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/skaffenb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.09-21.25.29:280][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.09-21.25.29:280][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.09-21.25.29:281][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-21.25.29:281][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.09-21.25.29:290][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.09-21.25.29:290][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-21.25.29:290][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.09-21.25.29:292][  0]LogDerivedDataCache: Using Local data cache path C:/Users/skaffenb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.09-21.25.29:292][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.09-21.25.29:292][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.09-21.25.29:310][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.09-21.25.29:312][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.09-21.25.29:313][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.09-21.25.29:375][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2019.12.09-21.25.29:605][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-21.25.29:743][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.09-21.25.29:743][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.09-21.25.29:743][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.09-21.25.29:743][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.09-21.25.29:743][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.09-21.25.29:752][  0]LogNetVersion: SadGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 199482494)
+[2019.12.09-21.25.30:434][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.047862 seconds
+[2019.12.09-21.25.30:445][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.09-21.25.30:445][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.09-21.25.30:445][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.09-21.25.31:414][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.09-21.25.31:417][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.09-21.25.31:466][  0]SourceControl: Source control is disabled
+[2019.12.09-21.25.31:955][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.09-21.25.31:955][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.09-21.25.32:031][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.09-21.25.32:224][  0]LogOcInput: OculusInput pre-init called
+[2019.12.09-21.25.32:230][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.09-21.25.32:230][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.09-21.25.32:290][  0]LogEngine: Initializing Engine...
+[2019.12.09-21.25.32:291][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-21.25.32:292][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.09-21.25.32:483][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.09-21.25.32:497][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-21.25.32:579][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-21.25.32:610][  0]LogInit: FAudioDevice initialized.
+[2019.12.09-21.25.32:610][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.09-21.25.32:782][  0]LogDerivedDataCache: Saved boot cache 0.17s 73MB C:/Users/skaffenb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-21.25.32:786][  0]LogInit: Texture streaming: Enabled
+[2019.12.09-21.25.32:806][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.09-21.25.32:851][  0]LogInit: Transaction tracking system initialized
+[2019.12.09-21.25.32:882][  0]BlueprintLog: New page: Editor Load
+[2019.12.09-21.25.32:957][  0]LocalizationService: Localization service is disabled
+[2019.12.09-21.25.33:015][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.09-21.25.33:015][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.09-21.25.33:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/' took 0.00s
+[2019.12.09-21.25.33:172][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.09-21.25.33:172][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.09-21.25.33:437][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.09-21.25.55:186][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.12.09-21.25.55:186][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-21.25.55:197][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-21.25.55:198][  0]Cmd: MAP LOAD FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/2DSideScrollerBP/Maps/Act1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-21.25.56:583][  0]LogSlate: Window 'Message' being destroyed
+[2019.12.09-21.25.56:583][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-21.25.56:586][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-21.25.56:587][  0]LightingResults: New page: Lighting Build
+[2019.12.09-21.25.56:589][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-21.25.56:589][  0]MapCheck: New page: Map Check
+[2019.12.09-21.25.56:589][  0]LightingResults: New page: Lighting Build
+[2019.12.09-21.25.56:612][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.12.09-21.25.56:613][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-21.25.56:617][  0]LoadErrors: New page: New Map
+[2019.12.09-21.25.56:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.25.56:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.25.56:789][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.25.56:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.25.56:804][  0]LogCollectionManager: Loaded 0 collections in 0.002243 seconds
+[2019.12.09-21.25.56:810][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Collections/' took 0.00s
+[2019.12.09-21.25.56:810][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Developers/skaffenb/Collections/' took 0.00s
+[2019.12.09-21.25.56:810][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Collections/' took 0.00s
+[2019.12.09-21.25.56:810][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.09-21.25.56:818][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2863 classes and 680 folders.
+[2019.12.09-21.25.56:825][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-21.25.58:024][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-21.25.58:073][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.09-21.25.58:084][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.09-21.25.58:184][  0]LogSlate: Took 0.062242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.09-21.25.58:453][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-21.25.58:562][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-21.25.58:562][  0]LogLoad: (Engine Initialization) Total time: 32.35 seconds
+[2019.12.09-21.25.58:562][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.09-21.25.58:613][  0]LogAssetRegistry: Asset discovery search completed in 29.2394 seconds
+[2019.12.09-21.25.58:616][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.09-21.25.58:616][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2019.12.09-21.25.58:618][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.09-21.25.58:720][  0]LogSlate: Took 0.008499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-21.25.59:582][ 98]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-21.26.00:525][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-21.26.19:402][459]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-21.26.19:986][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.19:987][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:025][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:026][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:028][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/2DSideScrollerBP/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:028][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/2DSideScrollerBP/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:028][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/2DSideScrollerBP/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:029][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/2DSideScrollerBP/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:135][459]LogTexture: Display: Building textures: SquishyBlink (AutoDXT, 1920X1080)
+[2019.12.09-21.26.20:135][459]LogTexture: Display: Building textures: Squishy (AutoDXT, 1920X1080)
+[2019.12.09-21.26.20:135][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:135][459]LoadErrors: Failed to load /Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue.Post_Orb_FOUR_mixdown_Cue Referenced by Orbs4
+[2019.12.09-21.26.20:135][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:135][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:135][459]LoadErrors: Failed to load /Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue.Post_Orb_FOUR_mixdown_Cue Referenced by Orbs5
+[2019.12.09-21.26.20:136][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap' failed to load '/Game/Audio/Music/Post_Orb_FOUR_mixdown_Cue': Can't find file.
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: BUBihope (AutoDXT, 1920X1080)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: BUBgreat (AutoDXT, 1920X1080)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: Trash (AutoDXT, 512X512)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: BUBgood (AutoDXT, 1920X1080)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: TileWalk (BC5, 512X512)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: AOMaterialMask0_1 (BC4, 1024X512)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: AOMaterialMask0_2 (BC4, 1024X512)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: AOMaterialMask0_3 (BC4, 1024X512)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: AOMaterialMask0_4 (BC4, 2048X1024)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: AOMaterialMask0_5 (BC4, 512X256)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: AOMaterialMask0_6 (BC4, 512X256)
+[2019.12.09-21.26.20:515][459]LogTexture: Display: Building textures: AOMaterialMask0_7 (BC4, 128X64)
+[2019.12.09-21.26.20:516][459]LogTexture: Display: Building textures: AOMaterialMask1_8 (BC4, 128X64)
+[2019.12.09-21.26.20:516][459]LogTexture: Display: Building textures: AOMaterialMask1_9 (BC4, 64X32)
+[2019.12.09-21.26.20:516][459]LogMaterial: Display: Missing cached shader map for material EmissYellow, compiling. 
+[2019.12.09-21.26.20:552][459]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.12.09-21.26.20:552][459]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2019.12.09-21.26.20:552][459]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.12.09-21.26.20:552][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.12.09-21.26.20:552][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.09-21.26.20:552][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.12.09-21.26.20:552][459]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2019.12.09-21.26.20:565][459]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.12.09-21.26.20:565][459]LogStaticMesh: Building static mesh apartmentbuildingfix_ApartmentCore007...
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 128X128)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 64X64)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2019.12.09-21.26.21:100][459]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2019.12.09-21.26.21:100][459]LogStaticMesh: Built static mesh [0.53s] /Game/3DModels/apartmentbuildingfix_ApartmentCore007.apartmentbuildingfix_ApartmentCore007
+[2019.12.09-21.26.21:123][459]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2019.12.09-21.26.21:123][459]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.12.09-21.26.21:123][459]LogStaticMesh: Building static mesh apartmentbuildingfix_Box032...
+[2019.12.09-21.26.21:142][459]LogStaticMesh: Built static mesh [0.02s] /Game/3DModels/apartmentbuildingfix_Box032.apartmentbuildingfix_Box032
+[2019.12.09-21.26.21:143][459]LogStaticMesh: Building static mesh conveniencestore...
+[2019.12.09-21.26.21:179][459]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 128X128)
+[2019.12.09-21.26.21:179][459]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 64X64)
+[2019.12.09-21.26.21:179][459]LogStaticMesh: Built static mesh [0.04s] /Game/3DModels/conveniencestore.conveniencestore
+[2019.12.09-21.26.21:368][459]LogTexture: Display: Building textures: BUBineedmore (AutoDXT, 1920X1080)
+[2019.12.09-21.26.21:368][459]LogTexture: Display: Building textures: BUBiwantmore (AutoDXT, 1920X1080)
+[2019.12.09-21.26.21:368][459]LogStaticMesh: Building static mesh tree...
+[2019.12.09-21.26.21:394][459]LogStaticMesh: Built static mesh [0.03s] /Game/tree.tree
+[2019.12.09-21.26.21:399][459]LogStaticMesh: Building static mesh twostory...
+[2019.12.09-21.26.21:438][459]LogStaticMesh: Built static mesh [0.04s] /Game/3DModels/twostory.twostory
+[2019.12.09-21.26.21:555][459]LogMaterial: Display: Missing cached shader map for material Tree1, compiling. 
+[2019.12.09-21.26.21:631][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.12.09-21.26.21:631][459]LogMaterial: Display: Missing cached shader map for material Leaves, compiling. 
+[2019.12.09-21.26.21:643][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Post_Orb_TWO_mixdown...
+[2019.12.09-21.26.22:633][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2019.12.09-21.26.22:633][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.12.09-21.26.22:633][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.12.09-21.26.22:633][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5455980 while cooking SoundWave /Game/Audio/Music/Post_Orb_TWO_mixdown.Post_Orb_TWO_mixdown.
+[2019.12.09-21.26.22:634][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Post_Orb_THREE_mixdown...
+[2019.12.09-21.26.23:223][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5233004 while cooking SoundWave /Game/Audio/Music/Post_Orb_THREE_mixdown.Post_Orb_THREE_mixdown.
+[2019.12.09-21.26.23:224][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Post_Orb_ONE_mixdown...
+[2019.12.09-21.26.23:946][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.12.09-21.26.23:946][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6708612 while cooking SoundWave /Game/Audio/Music/Post_Orb_ONE_mixdown.Post_Orb_ONE_mixdown.
+[2019.12.09-21.26.23:947][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Level_One_Start_mixdown...
+[2019.12.09-21.26.24:277][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.12.09-21.26.24:277][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2908312 while cooking SoundWave /Game/Audio/Music/Level_One_Start_mixdown.Level_One_Start_mixdown.
+[2019.12.09-21.26.24:277][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave HAPPY_HIGH_TRG...
+[2019.12.09-21.26.25:212][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.12.09-21.26.25:212][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.12.09-21.26.25:212][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.12.09-21.26.25:212][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 8338824 while cooking SoundWave /Game/Audio/Music/HAPPY_HIGH_TRG.HAPPY_HIGH_TRG.
+[2019.12.09-21.26.25:217][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.09-21.26.25:217][459]LogMaterial: Display: Missing cached shader map for material Window, compiling. 
+[2019.12.09-21.26.25:236][459]LogMaterial: Display: Missing cached shader map for material Sign, compiling. 
+[2019.12.09-21.26.25:259][459]LogMaterial: Display: Missing cached shader map for material Road_Roller_Da, compiling. 
+[2019.12.09-21.26.25:276][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 77
+[2019.12.09-21.26.25:276][459]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.12.09-21.26.25:300][459]LogMaterial: Display: Missing cached shader map for material Roofing, compiling. 
+[2019.12.09-21.26.25:322][459]LogMaterial: Display: Missing cached shader map for material Roof, compiling. 
+[2019.12.09-21.26.25:344][459]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.12.09-21.26.25:367][459]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2019.12.09-21.26.25:388][459]LogMaterial: Display: Missing cached shader map for material Brick, compiling. 
+[2019.12.09-21.26.25:541][459]LogMaterial: Display: Missing cached shader map for material WetSidewalk, compiling. 
+[2019.12.09-21.26.25:565][459]LogMaterial: Display: Missing cached shader map for material Wall3, compiling. 
+[2019.12.09-21.26.25:610][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 306
+[2019.12.09-21.26.25:611][459]LogMaterial: Display: Missing cached shader map for material TrashGreen2, compiling. 
+[2019.12.09-21.26.25:635][459]LogMaterial: Display: Missing cached shader map for material TrashGreen, compiling. 
+[2019.12.09-21.26.25:659][459]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2019.12.09-21.26.25:683][459]LogMaterial: Display: Missing cached shader map for material Metalic, compiling. 
+[2019.12.09-21.26.25:705][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 389
+[2019.12.09-21.26.25:706][459]LogMaterial: Display: Missing cached shader map for material Drywall, compiling. 
+[2019.12.09-21.26.25:734][459]LogMaterial: Display: Missing cached shader map for material Asphalt, compiling. 
+[2019.12.09-21.26.25:761][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Splurt...
+[2019.12.09-21.26.25:776][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 39896 while cooking SoundWave /Game/Audio/Effects/Splurt.Splurt.
+[2019.12.09-21.26.25:777][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Orb_HOVER_mixdown...
+[2019.12.09-21.26.26:439][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 472
+[2019.12.09-21.26.26:439][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6359040 while cooking SoundWave /Game/Audio/Effects/Orb_HOVER_mixdown.Orb_HOVER_mixdown.
+[2019.12.09-21.26.26:444][459]LogMaterial: Display: Missing cached shader map for material Reflect, compiling. 
+[2019.12.09-21.26.26:492][459]LogAIModule: Creating AISystem for world Act1
+[2019.12.09-21.26.26:588][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Rain_Mat.uasset' failed to load '/Game/Rain': Can't find file.
+[2019.12.09-21.26.26:589][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Rain_Mat.uasset' failed to load '/Game/Rain': Can't find file.
+[2019.12.09-21.26.26:589][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Rain_Mat.uasset' failed to load '/Game/Rain': Can't find file.
+[2019.12.09-21.26.26:589][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Rain_Mat.uasset' failed to load '/Game/Rain': Can't find file.
+[2019.12.09-21.26.26:659][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Rain_Mat.uasset' failed to load '/Game/Rain': Can't find file.
+[2019.12.09-21.26.26:659][459]LoadErrors: Failed to load /Game/Rain.Rain Referenced by MaterialExpressionTextureSample_0
+[2019.12.09-21.26.26:659][459]LogLinker: Warning: While loading '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Rain_Mat.uasset' failed to load '/Game/Rain': Can't find file.
+[2019.12.09-21.26.26:676][459]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2019.12.09-21.26.26:676][459]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.12.09-21.26.26:676][459]LogStaticMesh: Building static mesh trashcan...
+[2019.12.09-21.26.26:714][459]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.12.09-21.26.26:714][459]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2019.12.09-21.26.26:714][459]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.12.09-21.26.26:714][459]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.12.09-21.26.26:714][459]LogStaticMesh: Built static mesh [0.04s] /Game/3DModels/trashcan.trashcan
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: Night_Background_03_Edited (AutoDXT, 1920X1080)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2019.12.09-21.26.29:800][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 493
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X1024)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 1024X128)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X64)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 64X64)
+[2019.12.09-21.26.29:800][459]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 64X64)
+[2019.12.09-21.26.29:800][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 483
+[2019.12.09-21.26.29:800][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 473
+[2019.12.09-21.26.29:800][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 463
+[2019.12.09-21.26.29:800][459]LogMaterial: Display: Missing cached shader map for material Night_Background_03_Edited_Mat, compiling. 
+[2019.12.09-21.26.29:816][459]LogMaterial: Display: Missing cached shader map for material Rain_Mat, compiling. 
+[2019.12.09-21.26.29:817][459]LogMaterial: Warning: C:\Users\skaffenb\Documents\Unreal Projects\TheStrayAndTheSparrow\Content\Rain_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.09-21.26.29:817][459]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.09-21.26.29:828][459]LogAIModule: Creating AISystem for world Act2
+[2019.12.09-21.26.29:830][459]LogMaterial: Display: Material /Game/Textures/Night_Background_03_Edited_Mat.Night_Background_03_Edited_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.09-21.26.29:845][459]LogMaterial: Display: Missing cached shader map for material Night_Background_03_Edited_Mat, compiling. 
+[2019.12.09-21.26.29:864][459]MapCheck: Warning: Night_Background_03_Edited_Mat Material /Game/Textures/Night_Background_03_Edited_Mat.Night_Background_03_Edited_Mat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.12.09-21.26.29:885][459]LogAIModule: Creating AISystem for world FinalAct
+[2019.12.09-21.26.29:912][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.12.09-21.26.30:820][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 506
+[2019.12.09-21.26.30:947][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 496
+[2019.12.09-21.26.31:972][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 486
+[2019.12.09-21.26.32:078][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 476
+[2019.12.09-21.26.32:839][459]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.09-21.26.33:212][498]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 466
+[2019.12.09-21.26.34:350][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 456
+[2019.12.09-21.26.34:435][639]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-21.26.34:439][639]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-21.26.34:554][653]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 446
+[2019.12.09-21.26.34:787][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 436
+[2019.12.09-21.26.37:132][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 426
+[2019.12.09-21.26.37:140][939]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 416
+[2019.12.09-21.26.37:658][982]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 406
+[2019.12.09-21.26.38:784][ 91]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 396
+[2019.12.09-21.26.39:577][174]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Act1.Act1
+[2019.12.09-21.26.39:598][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 386
+[2019.12.09-21.26.39:598][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.12.09-21.26.39:600][174]Cmd: MAP LOAD FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Act1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-21.26.39:600][174]LightingResults: New page: Lighting Build
+[2019.12.09-21.26.39:601][174]LoadErrors: New page: Loading map: Act1.umap
+[2019.12.09-21.26.39:601][174]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-21.26.39:601][174]MapCheck: New page: Map Check
+[2019.12.09-21.26.39:601][174]LightingResults: New page: Lighting Build
+[2019.12.09-21.26.39:622][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.09-21.26.39:646][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.09-21.26.39:667][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.12.09-21.26.39:687][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.12.09-21.26.39:706][174]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-21.26.39:732][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.09-21.26.39:755][174]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-21.26.39:756][174]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
+[2019.12.09-21.26.39:757][174]LogFileHelpers: Loading map 'Act1' took 0.159
+[2019.12.09-21.26.40:792][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 376
+[2019.12.09-21.26.41:666][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 366
+[2019.12.09-21.26.41:834][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 356
+[2019.12.09-21.26.42:583][501]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 346
+[2019.12.09-21.26.44:114][684]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 336
+[2019.12.09-21.26.44:875][774]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 326
+[2019.12.09-21.26.45:601][860]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 316
+[2019.12.09-21.26.46:493][967]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 306
+[2019.12.09-21.26.46:765][999]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 296
+[2019.12.09-21.26.48:480][183]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 286
+[2019.12.09-21.26.48:641][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-21.26.49:076][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 276
+[2019.12.09-21.26.49:719][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 266
+[2019.12.09-21.26.49:881][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 256
+[2019.12.09-21.26.51:655][551]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 246
+[2019.12.09-21.26.52:231][620]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 236
+[2019.12.09-21.26.52:778][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 226
+[2019.12.09-21.26.53:221][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-21.26.53:503][760]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 216
+[2019.12.09-21.26.54:627][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 206
+[2019.12.09-21.26.55:053][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 196
+[2019.12.09-21.26.56:319][ 90]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 186
+[2019.12.09-21.26.56:493][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 176
+[2019.12.09-21.26.57:086][181]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 166
+[2019.12.09-21.26.58:612][364]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 156
+[2019.12.09-21.26.58:888][397]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2019.12.09-21.26.59:332][450]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 136
+[2019.12.09-21.27.00:722][615]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 126
+[2019.12.09-21.27.01:248][678]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2019.12.09-21.27.02:056][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2019.12.09-21.27.03:242][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2019.12.09-21.27.03:454][941]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2019.12.09-21.27.04:440][ 59]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2019.12.09-21.27.05:506][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2019.12.09-21.27.06:151][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2019.12.09-21.27.07:142][379]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2019.12.09-21.27.08:298][517]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.12.09-21.27.08:540][546]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2019.12.09-21.27.09:432][653]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.09-21.27.10:650][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.12.09-21.27.10:817][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.09-21.27.10:933][832]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.12.09-21.27.11:562][907]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.12.09-21.27.11:888][946]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.12.09-21.27.11:987][958]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.12.09-21.27.12:193][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.12.09-21.29.07:439][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-21.36.12:279][308]Cmd: ACTOR HIDE SELECTED
+[2019.12.09-21.36.17:820][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-21.36.17:903][982]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.09-21.36.17:910][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.36.17:910][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-21.36.17:929][982]PIE: New page: PIE session: Act1 (Dec 9, 2019, 11:36:17 AM)
+[2019.12.09-21.36.17:930][982]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.09-21.36.17:931][982]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Act1
+[2019.12.09-21.36.17:952][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020765s)
+[2019.12.09-21.36.17:953][982]LogAIModule: Creating AISystem for world Act1
+[2019.12.09-21.36.17:953][982]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2019.12.09-21.36.17:953][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Act1.Act1 to /Game/Maps/UEDPIE_0_Act1.Act1 (0.021894s)
+[2019.12.09-21.36.17:972][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.12.09-21.36.18:006][982]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-21.36.18:020][982]LogInit: FAudioDevice initialized.
+[2019.12.09-21.36.18:027][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.36.18:027][982]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.09-21.36.18:033][982]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Act1.Act1 up for play (max tick rate 0) at 2019.12.09-16.36.18
+[2019.12.09-21.36.18:034][982]LogWorld: Bringing up level for play took: 0.005098
+[2019.12.09-21.36.18:034][982]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.09-21.36.18:041][982]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.09-21.36.18:044][982]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Act1 -0.225
+[2019.12.09-21.36.18:044][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.36.18:069][983]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-21.36.20:661][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.36.20:662][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.36.20:662][289]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Act1
+[2019.12.09-21.36.20:670][289]LogSlate: Window 'SadGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-21.36.20:673][289]LogWorld: UWorld::CleanupWorld for Act1, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-21.36.20:683][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-21.36.20:683][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.36.20:706][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.12.09-21.36.20:766][296]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.09-21.36.23:482][618]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-21.36.24:639][754]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.09-21.36.24:647][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.36.24:647][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-21.36.24:647][754]PIE: New page: PIE session: Act1 (Dec 9, 2019, 11:36:24 AM)
+[2019.12.09-21.36.24:647][754]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Act1
+[2019.12.09-21.36.24:668][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020482s)
+[2019.12.09-21.36.24:668][754]LogAIModule: Creating AISystem for world Act1
+[2019.12.09-21.36.24:668][754]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.12.09-21.36.24:668][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Act1.Act1 to /Game/Maps/UEDPIE_0_Act1.Act1 (0.021299s)
+[2019.12.09-21.36.24:687][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.12.09-21.36.24:721][754]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-21.36.24:733][754]LogInit: FAudioDevice initialized.
+[2019.12.09-21.36.24:740][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.36.24:740][754]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.09-21.36.24:744][754]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Act1.Act1 up for play (max tick rate 0) at 2019.12.09-16.36.24
+[2019.12.09-21.36.24:745][754]LogWorld: Bringing up level for play took: 0.003822
+[2019.12.09-21.36.24:745][754]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.09-21.36.24:748][754]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Act1 0.478
+[2019.12.09-21.36.24:753][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.36.37:703][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-21.37.08:393][396]LogBlueprintUserMessages: [Orbs_2] Player left collision sphere
+[2019.12.09-21.37.09:234][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-21.37.13:846][610]LogBlueprintUserMessages: [Orbs_2] Player left collision sphere
+[2019.12.09-21.37.19:869][628]LogBlueprintUserMessages: [2DSideScrollerBird] squeesh
+[2019.12.09-21.37.25:675][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.37.25:675][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-21.37.25:675][808]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Act1
+[2019.12.09-21.37.25:683][808]LogSlate: Window 'SadGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-21.37.25:688][808]LogWorld: UWorld::CleanupWorld for Act1, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-21.37.25:698][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-21.37.25:699][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Act1.Act1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Act1.Act1:PersistentLevel.Act1' with GeneratedClass '/Game/Maps/Act1.Act1_C' with ClassGeneratedBy '/Game/Maps/Act1.Act1:PersistentLevel.Act1'
+[2019.12.09-21.37.25:724][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.09-21.37.26:013][809]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.09-21.41.44:841][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-21.41.50:828][626]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Start.Start
+[2019.12.09-21.41.50:847][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.09-21.41.52:293][626]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-21.41.52:377][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Start" FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-21.41.52:398][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.09-21.41.52:406][626]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Saved/Start1BA93212443995EA30088D91716CCCAF.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Start.umap'
+[2019.12.09-21.41.52:594][626]LogFileHelpers: Saving map 'Start' took 0.218
+[2019.12.09-21.41.52:598][626]Cmd: MAP LOAD FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Maps/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-21.41.52:598][626]LightingResults: New page: Lighting Build
+[2019.12.09-21.41.52:599][626]LoadErrors: New page: Loading map: Start.umap
+[2019.12.09-21.41.52:599][626]LogWorld: UWorld::CleanupWorld for Act1, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-21.41.52:600][626]MapCheck: New page: Map Check
+[2019.12.09-21.41.52:600][626]LightingResults: New page: Lighting Build
+[2019.12.09-21.41.52:621][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.09-21.41.52:622][626]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-21.41.52:622][626]LogAIModule: Creating AISystem for world Start
+[2019.12.09-21.41.52:641][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.12.09-21.41.52:656][626]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-21.41.52:657][626]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2019.12.09-21.41.52:658][626]LogFileHelpers: Loading map 'Start' took 0.060
+[2019.12.09-21.41.58:735][350]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2019.12.09-21.41.59:268][350]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.09-21.42.00:281][350]LogSlate: Took 0.019498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.09-21.42.04:370][832]LogSlate: Window 'StartScreen' being destroyed
+[2019.12.09-21.42.04:373][832]LogSlate: Window 'StartScreen' being destroyed
+[2019.12.09-21.42.04:375][832]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-21.42.04:386][832]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-21.42.07:479][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/TheStrayAndTheSparrow/Content/Widgets/StartScreen.uasset" SILENT=true
+[2019.12.09-21.42.07:509][131]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.09-21.42.08:870][131]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.361 s
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: 
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: Found circular redirect from /Game/Widgets/StartScreen.StartScreen to /Game/Widgets/StartScreen.StartScreen! Returning None instead
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: Stack: 
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa882d6df0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa87f562e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8820f2d6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa88226089 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa87f8ded7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa87f1bc83 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8821d683 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa880a543c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa881cfb89 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa881d00e1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa880a756c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa880a5512 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa881cfb89 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8816e21c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa881d00e1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa880a756c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8816e8c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8816cceb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8816c9d4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa84c51f95 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa84c51a3c UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa71e9f0bf UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa881b1c22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa881d39c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa881ba631 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa82f0795f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa82f082f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:870][131]LogOutputDevice: Error: [Callstack] 0x00007ffa82f3f3b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa82f3bc3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa83707550 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8327bb22 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8327a630 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8328ee16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa71b54f02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa71b0a8aa UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa71b6a280 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa70527840 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa705dc9e4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa705d77af UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa705e19f2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa704f19d0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa704f1b1e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa84399d2f UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa843a0310 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa8437c534 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa844158b8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa844314b1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa843a1ca5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa84275231 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa842fb4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa842e52e8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffa842d9c91 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffabfdc4e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffabfdb26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffabfdc7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffabfdaedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffadb9e681d USER32.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffadb9e6212 USER32.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffabfdc88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ff61e046980 UE4Editor.exe!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ff61e05a91c UE4Editor.exe!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ff61e05a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ff61e06b92c UE4Editor.exe!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ff61e06e60e UE4Editor.exe!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffadc687bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: [Callstack] 0x00007ffadd80ce71 ntdll.dll!UnknownFunction []
+[2019.12.09-21.42.08:871][131]LogOutputDevice: Error: 
+[2019.12.09-21.42.08:874][131]LogStats:                SubmitErrorReport -  0.000 s
